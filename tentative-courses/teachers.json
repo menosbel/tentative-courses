@@ -1,0 +1,49 @@
+{
+    "teachers": [
+        {
+            "first": "Marianela",
+            "last": "Charvet",
+            "availability": [["Monday", "13:00"], ["Wednesday", "15:00"], ["Friday", "19:00"]]
+        },
+        {
+            "first": "Paul",
+            "last": "Bloom",
+            "availability": [["Monday", "15:00"], ["Monday", "16:00"], ["Tuesday", "19:00"], ["Wednesday", "12:00"], ["Friday", "15:00"]]
+        },
+        {
+            "first": "Annie",
+            "last": "Plop",
+            "availability": [["Monday", "15:00"], ["Tuesday", "13:00"], ["Wednesday", "15:00"], ["Thursday", "19:00"]]
+        },
+        {
+            "first": "Juana",
+            "last": "Artensio",
+            "availability": [["Monday", "13:00"], ["Wednesday", "15:00"], ["Friday", "19:00"]]
+        },
+        {
+            "first": "Carlos",
+            "last": "Guistan",
+            "availability": [["Wednesday", "9:00"], ["Thursday", "18:00"], ["Friday", "9:00"]]
+        },
+        {
+            "first": "Clara",
+            "last": "Pinto",
+            "availability": [["Tuesday", "11:00"], ["Wednesday", "18:00"], ["Thursday", "19:00"]]
+        },
+        {
+            "first": "John",
+            "last": "Doe",
+            "availability": [["Monday", "15:00"], ["Tuesday", "11:00"], ["Wednesday", "15:00"], ["Wednesday", "18:00"], ["Thursday", "19:00"], ["Friday", "15:00"]]
+        },
+        {
+            "first": "Mary",
+            "last": "Smith",
+            "availability": [["Monday", "15:00"], ["Tuesday", "11:00"], ["Wednesday", "15:00"], ["Wednesday", "18:00"], ["Thursday", "15:00"], ["Friday", "15:00"]]
+        },
+        {
+            "first": "Lucas",
+            "last": "Savora",
+            "availability": [["Lunes", "13:00"], ["Miercoles", "15:00"], ["Viernes", "19:00"]]
+        }
+    ]
+}
